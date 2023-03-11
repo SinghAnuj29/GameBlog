@@ -66,38 +66,49 @@
 							<div class="grid-container">
 							<div class="card-container">
 								<div class="card">
-									<img src="./images/warzone-img.webp" alt="Image 1">
-                                    <div class="card-content">
-                                        <h3>No more remotely detonated kills for you.</h3>
-                                        <p>When is the Bomb Drone Being Removed and When Will it Come Back in Call of Duty Warzone 2?</p>
-                                    </div>
+                                    <a href="#">
+                                        <img src="./images/warzone-img.webp" alt="Image 1">
+                                        <div class="card-content">
+                                            <h3>No more remotely detonated kills for you.</h3>
+                                            <p>When is the Bomb Drone Being Removed and When Will it Come Back in Call of Duty Warzone 2?</p>
+                                        </div>
+                                    </a>
 								</div>
 
 								<div class="card">
-									<img src="./images/valorant.webp" alt="Image 2">
+                                    <a href="#">
+                                        <img src="./images/valorant.webp" alt="Image 2">
+    
+                                        <div class="card-content">
+                                            <h3>How to Convert Your CS: GO Sensitivity to Valorant</h3>
+                                            <p>Stop guessing what is your sensitivity and find out how to convert your CS: GO sensitivity to Valorant.</p>
+                                        </div>
 
-                                    <div class="card-content">
-                                        <h3>How to Convert Your CS: GO Sensitivity to Valorant</h3>
-                                        <p>Stop guessing what is your sensitivity and find out how to convert your CS: GO sensitivity to Valorant.</p>
-                                    </div>
+                                    </a>
 								</div>
 
 								<div class="card">
-									<img src="./images/Roblox-News.webp" alt="Image 3">
+                                    <a href="#">
+                                        <img src="./images/Roblox-News.webp" alt="Image 3">
+    
+                                        <div class="card-content">
+                                            <h3>Could PlayStation gamers finally have the chance to jump into Roblox?</h3>
+                                            <p> Roblox May Be Coming To PlayStation Sooner Than We Think</p>
+                                        </div>
 
-                                    <div class="card-content">
-                                        <h3>Could PlayStation gamers finally have the chance to jump into Roblox?</h3>
-                                        <p> Roblox May Be Coming To PlayStation Sooner Than We Think</p>
-                                    </div>
+                                    </a>
 								</div>
 
 								<div class="card">
-									<img src="./images/pubg.webp" alt="Image 4">
+                                    <a href="#">
+                                        <img src="./images/pubg.webp" alt="Image 4">
+    
+                                        <div class="card-content">
+                                            <h3>Rock, DualShock, and Roll!</h3>
+                                            <p>Does PUBG Mobile Have Controller Support?</p>
+                                        </div>
 
-                                    <div class="card-content">
-                                        <h3>Rock, DualShock, and Roll!</h3>
-                                        <p>Does PUBG Mobile Have Controller Support?</p>
-                                    </div>
+                                    </a>
 								</div>
 								</div>
 
