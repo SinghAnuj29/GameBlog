@@ -66,24 +66,38 @@
 							<div class="grid-container">
 							<div class="card-container">
 								<div class="card">
-									<img src="image1.jpg" alt="Image 1">
-									<h3>Title 1</h3>
-									<p>Description for card 1</p>
+									<img src="./images/warzone-img.webp" alt="Image 1">
+                                    <div class="card-content">
+                                        <h3>No more remotely detonated kills for you.</h3>
+                                        <p>When is the Bomb Drone Being Removed and When Will it Come Back in Call of Duty Warzone 2?</p>
+                                    </div>
 								</div>
+
 								<div class="card">
-									<img src="image2.jpg" alt="Image 2">
-									<h3>Title 2</h3>
-									<p>Description for card 2</p>
+									<img src="./images/valorant.webp" alt="Image 2">
+
+                                    <div class="card-content">
+                                        <h3>How to Convert Your CS: GO Sensitivity to Valorant</h3>
+                                        <p>Stop guessing what is your sensitivity and find out how to convert your CS: GO sensitivity to Valorant.</p>
+                                    </div>
 								</div>
+
 								<div class="card">
-									<img src="image3.jpg" alt="Image 3">
-									<h3>Title 3</h3>
-									<p>Description for card 3</p>
+									<img src="./images/Roblox-News.webp" alt="Image 3">
+
+                                    <div class="card-content">
+                                        <h3>Could PlayStation gamers finally have the chance to jump into Roblox?</h3>
+                                        <p> Roblox May Be Coming To PlayStation Sooner Than We Think</p>
+                                    </div>
 								</div>
+
 								<div class="card">
-									<img src="image4.jpg" alt="Image 4">
-									<h3>Title 4</h3>
-									<p>Description for card 4</p>
+									<img src="./images/pubg.webp" alt="Image 4">
+
+                                    <div class="card-content">
+                                        <h3>Rock, DualShock, and Roll!</h3>
+                                        <p>Does PUBG Mobile Have Controller Support?</p>
+                                    </div>
 								</div>
 								</div>
 
