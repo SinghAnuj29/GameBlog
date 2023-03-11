@@ -168,6 +168,17 @@
 					</section>
 					<!--//main-->
 					<!--/middle-->
+
+                    <section class="section-middle">
+                        <div class="section-middle-container">
+                            <img src="./images/gta5.jpg" alt="gta5" />
+
+                            <div class="text">
+                                <h2>5 best GTA 5 characters that might be brought back in GTA 6</h2>
+                                <p>GTA 6 is currently one of the most anticipated video games, and although it is still far away from being released, fans and game data miners are actively searching for new information about its development process.</p>
+                            </div>
+                        </div>
+                    </section>
 					
 
 					<!--//middle-->
