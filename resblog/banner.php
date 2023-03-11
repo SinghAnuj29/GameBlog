@@ -11,28 +11,28 @@
 				<div class="carousel-item active">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","1") ?>
+                        Adorn your Life <span>with Game</span>
 						</h3>
 					</div>
 				</div>
 				<div class="carousel-item item2">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","2") ?>
+                        A New Perspective <span>for Gamer</span>
 						</h3>
 					</div>
 				</div>
 				<div class="carousel-item item3">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","3") ?>
+                        Adorn your Life <span>with Game</span>
 						</h3>
 					</div>
 				</div>
 				<div class="carousel-item item4">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","4") ?>
+                        A New Perspective <span>for Gamer</span>
 						</h3>
 				</div>
 			</div>
