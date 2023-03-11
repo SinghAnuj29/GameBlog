@@ -61,7 +61,35 @@
 					<!--grid blogs below-->
 					<div class="blog-girds-sec">
 						<div class="row">
-							<?php getblogridposts("blogs");?>
+							
+							<!-- <?php getblogridposts("blogs");?> -->
+							<div class="grid-container">
+							<div class="card-container">
+								<div class="card">
+									<img src="image1.jpg" alt="Image 1">
+									<h3>Title 1</h3>
+									<p>Description for card 1</p>
+								</div>
+								<div class="card">
+									<img src="image2.jpg" alt="Image 2">
+									<h3>Title 2</h3>
+									<p>Description for card 2</p>
+								</div>
+								<div class="card">
+									<img src="image3.jpg" alt="Image 3">
+									<h3>Title 3</h3>
+									<p>Description for card 3</p>
+								</div>
+								<div class="card">
+									<img src="image4.jpg" alt="Image 4">
+									<h3>Title 4</h3>
+									<p>Description for card 4</p>
+								</div>
+								</div>
+
+							</div>
+
+
 							<!--bloggrids-->
 						</div>
 					</div>
