@@ -172,28 +172,7 @@
 
 					<!--//middle-->
 					<!---->
-					<section class="main-content-w3layouts-agileits">
-						<div class="container">
-							<div class="row">
-								<!--left-->
-								<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
-									<?php getonelatest("blogs");?>
-								</div>
-								<!--//left-->
-								<!--right-->
-								<aside class="col-lg-4 agileits-w3ls-right-blog-con text-left">
-									<div class="tech-btm">
-										<h4>Editor's Choice</h4>
-										
-										
-										
-									</div>
-									
-								</aside>
-								<!--//right-->
-							</div>
-						</div>
-					</section>
+					
 					<!--//main-->
 					<?php include("footer.php");?>
 					<!---->
