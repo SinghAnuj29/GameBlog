@@ -156,8 +156,8 @@
 											</ul>
 										</div>
 										<div class="tech-btm">
-											<h4>Older Posts</h4>
-											<?php getolderposts("blogs");?>
+											<h4>Ads section here</h4>
+											<!-- <?php getolderposts("blogs");?> -->
 											<!--olderpostsendhere-->
 										</div>
 									</div>
@@ -168,21 +168,8 @@
 					</section>
 					<!--//main-->
 					<!--/middle-->
-					<section class="middle-sec-agileinfo-w3ls">
-						<div class="container">
-							<div class="row inner-sec">
-								<div class="col-md-4 news-left">
-									<ul id="demo1_thumbs" class="list-inline">
-										<!--get latest four-->
-										<?php getfour("blogs");?>
-									</ul>
-								</div>
-								<div id="demo1_main_image" class="col-md-8  news-right"></div>
-								<div class="clearfix"> </div>
-							</div>
-						</div>
+					
 
-					</section>
 					<!--//middle-->
 					<!---->
 					<section class="main-content-w3layouts-agileits">
@@ -198,7 +185,7 @@
 									<div class="tech-btm">
 										<h4>Editor's Choice</h4>
 										
-										<?php geteditorschoice("editors_choice"); ?>
+										
 										
 									</div>
 									

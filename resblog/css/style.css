@@ -1666,14 +1666,11 @@ a.facebook:hover {
   font-size: 12px;
   line-height: 1.5;
   margin-top: 12px;
+  color: #000;
 }
 
 .card-content {
   padding: 20px 10px 26px 10px;
-}
-
-p {
-  color: #000;
 }
 
 /*--//responsive--*/
