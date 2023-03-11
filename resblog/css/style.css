@@ -1614,7 +1614,7 @@ a.facebook:hover {
 .card-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 20px;
+    grid-gap: 30px;
 }
 
 .card {
@@ -1624,6 +1624,11 @@ a.facebook:hover {
 
     border-radius: 12px;
     overflow: hidden;
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-20px);
 }
 
 .card img {
@@ -1635,6 +1640,7 @@ a.facebook:hover {
 .card h3 {
     margin-top: 0;
     font-size: 24px;
+    color: #333;
 }
 
 .card p {
